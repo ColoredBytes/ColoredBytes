@@ -6,26 +6,6 @@ I'm a self-taught automation enthusiast passionate about **homelab infrastructur
 
 ---
 
-## 🔧 What I'm Building
-
-### 🏠 Homelab & Infrastructure
-- **[cloudystart](https://github.com/jershbytes/cloudystart)** - Interactive Proxmox VE provisioning script for rapid VM deployment with cloud-init
-- **[labDocs](https://github.com/jershbytes/labDocs)** - Comprehensive homelab documentation and guides hosted on GitHub Pages
-- **[traefik-template](https://github.com/jershbytes/traefik-template)** - Docker-based Traefik reverse proxy configuration template
-- **[certbot-setup](https://github.com/jershbytes/certbot-setup)** - Automated SSL certificate management with Let's Encrypt
-
-### 🤖 Configuration & Automation
-- **[dotfiles](https://github.com/jershbytes/dotfiles)** - Personal development environment managed with chezmoi for reproducible setups
-- **[ansible-template](https://github.com/jershbytes/ansible-template)** - Best-practice template for managing Ansible playbooks in Python virtual environments
-- **[nvim](https://github.com/jershbytes/nvim)** - Neovim configuration based on LazyVim for efficient development
-- **[.github](https://github.com/jershbytes/.github)** - Reusable GitHub Actions workflows and automation across repositories
-
-### 🎮 Fun Projects
-- **[LANdex](https://github.com/jershbytes/LANdex)** - Lightweight web app for browsing game servers at LAN parties
-- **[companion-app](https://github.com/jershbytes/companion-app)** - Satirical friendship vetting app (because friends are protective)
-
----
-
 ## 🛠️ Tech Stack
 
 **Infrastructure & DevOps**  
